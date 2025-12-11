@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1.1 (64-bit)
+# SW Build 6233196 on Thu Sep 11 21:27:30 MDT 2025
+# IP Build 6232796 on Fri Sep 12 01:46:16 MDT 2025
+# SharedData Build 6233195 on Thu Sep 11 17:56:43 MDT 2025
+# Start of session at: Thu Dec 11 18:03:05 2025
+# Process ID         : 9704
+# Current directory  : E:/Xilinx/projects/project_NoC/project_NoC.runs/ila_0_synth_1
+# Command line       : vivado.exe -log ila_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ila_0.tcl
+# Log file           : E:/Xilinx/projects/project_NoC/project_NoC.runs/ila_0_synth_1/ila_0.vds
+# Journal file       : E:/Xilinx/projects/project_NoC/project_NoC.runs/ila_0_synth_1\vivado.jou
+# Running On         : DESKTOP-5SSSIOC
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 7800X3D 8-Core Processor           
+# CPU Frequency      : 4200 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 33397 MB
+# Swap memory        : 39225 MB
+# Total Virtual      : 72622 MB
+# Available Virtual  : 56213 MB
+#-----------------------------------------------------------
+source ila_0.tcl -notrace

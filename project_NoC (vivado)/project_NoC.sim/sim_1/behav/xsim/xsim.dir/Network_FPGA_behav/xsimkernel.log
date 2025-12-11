@@ -1,0 +1,7 @@
+Running: xsim.dir/Network_FPGA_behav/xsimk.exe -simmode gui -wdb Network_FPGA_behav.wdb -simrunnum 0 -socket 52739
+Design successfully loaded
+Design Loading Memory Usage: 13468 KB (Peak: 13468 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 16096 KB (Peak: 16096 KB)
+Simulation CPU Usage: 30 ms

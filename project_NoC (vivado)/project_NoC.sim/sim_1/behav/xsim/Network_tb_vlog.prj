@@ -1,0 +1,80 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../2025.1.1/Vivado/data/rsb/busdef" --include "../../../../project_NoC.ip_user_files/ipstatic" \
+"../../../../../test expac/ClusterHubTile.v" \
+"../../../../../test expac/Control.v" \
+"../../../../../test expac/router expac/Control7.v" \
+"../../../../../test expac/Crossbar.v" \
+"../../../../../test expac/router expac/Crossbar7.v" \
+"../../../../../test expac/InputBuffer.v" \
+"../../../../../test expac/router expac/InputBuffer7.v" \
+"../../../../../test expac/router expac/MiniNet0.v" \
+"../../../../../test expac/router expac/MiniNet1.v" \
+"../../../../../test expac/router expac/MiniNet2.v" \
+"../../../../../test expac/router expac/MiniNet3.v" \
+"../../../../../test expac/router expac/Network.v" \
+"../../../../../test expac/Nodes/Node0.v" \
+"../../../../../test expac/Nodes/Node1.v" \
+"../../../../../test expac/Nodes/Node10.v" \
+"../../../../../test expac/Nodes/Node11.v" \
+"../../../../../test expac/Nodes/Node12.v" \
+"../../../../../test expac/Nodes/Node13.v" \
+"../../../../../test expac/Nodes/Node14.v" \
+"../../../../../test expac/Nodes/Node15.v" \
+"../../../../../test expac/Nodes/Node2.v" \
+"../../../../../test expac/Nodes/Node3.v" \
+"../../../../../test expac/Nodes/Node4.v" \
+"../../../../../test expac/Nodes/Node5.v" \
+"../../../../../test expac/Nodes/Node6.v" \
+"../../../../../test expac/Nodes/Node7.v" \
+"../../../../../test expac/Nodes/Node8.v" \
+"../../../../../test expac/Nodes/Node9.v" \
+"../../../../../test expac/PE/ProcessingElement0.v" \
+"../../../../../test expac/PE/ProcessingElement1.v" \
+"../../../../../test expac/PE/ProcessingElement10.v" \
+"../../../../../test expac/PE/ProcessingElement11.v" \
+"../../../../../test expac/PE/ProcessingElement12.v" \
+"../../../../../test expac/PE/ProcessingElement13.v" \
+"../../../../../test expac/PE/ProcessingElement14.v" \
+"../../../../../test expac/PE/ProcessingElement15.v" \
+"../../../../../test expac/PE/ProcessingElement2.v" \
+"../../../../../test expac/PE/ProcessingElement3.v" \
+"../../../../../test expac/PE/ProcessingElement4.v" \
+"../../../../../test expac/PE/ProcessingElement5.v" \
+"../../../../../test expac/PE/ProcessingElement6.v" \
+"../../../../../test expac/PE/ProcessingElement7.v" \
+"../../../../../test expac/PE/ProcessingElement8.v" \
+"../../../../../test expac/PE/ProcessingElement9.v" \
+"../../../../../test expac/RouteCompute.v" \
+"../../../../../test expac/router expac/RouteCompute7.v" \
+"../../../../../test expac/Router.v" \
+"../../../../../test expac/router expac/Router7.v" \
+"../../../../../test expac/router expac/SuperHubTile.v" \
+"../../../../../test expac/SwitchAlloc.v" \
+"../../../../../test expac/router expac/SwitchAlloc7.v" \
+"../../../../../test expac/VCAlloc.v" \
+"../../../../../test expac/router expac/VCAlloc7.v" \
+"../../../../../test expac/datain_bufs/datain_buf.v" \
+"../../../../../test expac/datain_bufs/datain_buf_0.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_0.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_1.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_10.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_11.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_12.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_13.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_14.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_15.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_2.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_3.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_4.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_5.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_6.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_7.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_8.v" \
+"../../../../../test expac/dataout_bufs/expac/dataout_buf_9.v" \
+"../../../../../test expac/Network_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,85 @@
+Vivado Simulator v2025.1.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: E:/Xilinx/2025.1.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot Network_tb_behav xil_defaultlib.Network_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.RouteCompute
+Compiling module xil_defaultlib.InputBuffer
+Compiling module xil_defaultlib.VCAlloc
+Compiling module xil_defaultlib.SwitchAlloc
+Compiling module xil_defaultlib.Control
+Compiling module xil_defaultlib.Crossbar
+Compiling module xil_defaultlib.Router_default
+Compiling module xil_defaultlib.dataout_buf_0_default
+Compiling module xil_defaultlib.datain_buf_0_default
+Compiling module xil_defaultlib.ProcessingElement0
+Compiling module xil_defaultlib.Node0
+Compiling module xil_defaultlib.dataout_buf_1_default
+Compiling module xil_defaultlib.datain_buf_default
+Compiling module xil_defaultlib.ProcessingElement1
+Compiling module xil_defaultlib.Node1
+Compiling module xil_defaultlib.dataout_buf_2_default
+Compiling module xil_defaultlib.ProcessingElement2
+Compiling module xil_defaultlib.Node2
+Compiling module xil_defaultlib.dataout_buf_3_default
+Compiling module xil_defaultlib.ProcessingElement3
+Compiling module xil_defaultlib.Node3
+Compiling module xil_defaultlib.RouteCompute7
+Compiling module xil_defaultlib.InputBuffer7
+Compiling module xil_defaultlib.VCAlloc7
+Compiling module xil_defaultlib.SwitchAlloc7
+Compiling module xil_defaultlib.Control7
+Compiling module xil_defaultlib.Crossbar7
+Compiling module xil_defaultlib.Router7_default
+Compiling module xil_defaultlib.ClusterHubTile
+Compiling module xil_defaultlib.mininetwork0
+Compiling module xil_defaultlib.dataout_buf_4_default
+Compiling module xil_defaultlib.ProcessingElement4
+Compiling module xil_defaultlib.Node4
+Compiling module xil_defaultlib.dataout_buf_5_default
+Compiling module xil_defaultlib.ProcessingElement5
+Compiling module xil_defaultlib.Node5
+Compiling module xil_defaultlib.dataout_buf_6_default
+Compiling module xil_defaultlib.ProcessingElement6
+Compiling module xil_defaultlib.Node6
+Compiling module xil_defaultlib.dataout_buf_7_default
+Compiling module xil_defaultlib.ProcessingElement7
+Compiling module xil_defaultlib.Node7
+Compiling module xil_defaultlib.mininetwork1
+Compiling module xil_defaultlib.dataout_buf_8_default
+Compiling module xil_defaultlib.ProcessingElement8
+Compiling module xil_defaultlib.Node8
+Compiling module xil_defaultlib.dataout_buf_9_default
+Compiling module xil_defaultlib.ProcessingElement9
+Compiling module xil_defaultlib.Node9
+Compiling module xil_defaultlib.dataout_buf_10_default
+Compiling module xil_defaultlib.ProcessingElement10
+Compiling module xil_defaultlib.Node10
+Compiling module xil_defaultlib.dataout_buf_11_default
+Compiling module xil_defaultlib.ProcessingElement11
+Compiling module xil_defaultlib.Node11
+Compiling module xil_defaultlib.mininetwork2
+Compiling module xil_defaultlib.dataout_buf_12_default
+Compiling module xil_defaultlib.ProcessingElement12
+Compiling module xil_defaultlib.Node12
+Compiling module xil_defaultlib.dataout_buf_13_default
+Compiling module xil_defaultlib.ProcessingElement13
+Compiling module xil_defaultlib.Node13
+Compiling module xil_defaultlib.dataout_buf_14_default
+Compiling module xil_defaultlib.ProcessingElement14
+Compiling module xil_defaultlib.Node14
+Compiling module xil_defaultlib.dataout_buf_15_default
+Compiling module xil_defaultlib.ProcessingElement15
+Compiling module xil_defaultlib.Node15
+Compiling module xil_defaultlib.mininetwork3
+Compiling module xil_defaultlib.SuperHubTile
+Compiling module xil_defaultlib.Network
+Compiling module xil_defaultlib.Network_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Network_tb_behav

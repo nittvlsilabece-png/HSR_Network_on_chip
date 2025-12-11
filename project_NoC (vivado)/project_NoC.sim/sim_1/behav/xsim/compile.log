@@ -1,0 +1,144 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/ClusterHubTile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ClusterHubTile
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/Control7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control7
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Crossbar.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Crossbar
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/Crossbar7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Crossbar7
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/InputBuffer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InputBuffer
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/InputBuffer7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InputBuffer7
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/MiniNet0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mininetwork0
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/MiniNet1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mininetwork1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/MiniNet2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mininetwork2
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/MiniNet3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mininetwork3
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/Network.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Network
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node0
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node10.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node10
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node11
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node12.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node12
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node13.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node13
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node14.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node14
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node15.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node15
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node2
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node3
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node4
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node5
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node6
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node7
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node8
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Nodes/Node9.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Node9
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement0
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement10.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement10
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement11
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement12.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement12
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement13.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement13
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement14.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement14
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement15.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement15
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement2
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement3
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement4
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement5
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement6
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement7
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement8
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/PE/ProcessingElement9.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProcessingElement9
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/RouteCompute.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RouteCompute
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/RouteCompute7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RouteCompute7
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Router.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Router
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/Router7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Router7
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/SuperHubTile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SuperHubTile
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/SwitchAlloc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SwitchAlloc
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/SwitchAlloc7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SwitchAlloc7
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/VCAlloc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VCAlloc
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/router expac/VCAlloc7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VCAlloc7
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/datain_bufs/datain_buf.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datain_buf
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/datain_bufs/datain_buf_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datain_buf_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_10.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_10
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_11
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_12.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_12
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_13.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_13
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_14.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_14
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_15.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_15
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_6
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_7
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/dataout_bufs/expac/dataout_buf_9.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dataout_buf_9
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Xilinx/projects/test expac/Network_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Network_tb

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Network_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Network_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1,602.444 ns"></ZoomStartTime>
+      <ZoomEndTime time="2,367.445 ns"></ZoomEndTime>
+      <Cursor1Time time="486.476 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="186"></NameColumnWidth>
+      <ValueColumnWidth column_width="80"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/Network_tb/NoC/cluster2/u_node2/Router_0/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/cluster2/u_node2/Router_0/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read0" type="array">
+      <obj_property name="ElementShortName">read0[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read0[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read1" type="array">
+      <obj_property name="ElementShortName">read1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read2" type="array">
+      <obj_property name="ElementShortName">read2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read3" type="array">
+      <obj_property name="ElementShortName">read3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read3[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read4" type="array">
+      <obj_property name="ElementShortName">read4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read4[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read5" type="array">
+      <obj_property name="ElementShortName">read5[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read5[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read6" type="array">
+      <obj_property name="ElementShortName">read6[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read6[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read7" type="array">
+      <obj_property name="ElementShortName">read7[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read7[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read8" type="array">
+      <obj_property name="ElementShortName">read8[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read8[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read9" type="array">
+      <obj_property name="ElementShortName">read9[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read9[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read10" type="array">
+      <obj_property name="ElementShortName">read10[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read10[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read11" type="array">
+      <obj_property name="ElementShortName">read11[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read11[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read12" type="array">
+      <obj_property name="ElementShortName">read12[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read12[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read13" type="array">
+      <obj_property name="ElementShortName">read13[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read13[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read14" type="array">
+      <obj_property name="ElementShortName">read14[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read14[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Network_tb/NoC/read15" type="array">
+      <obj_property name="ElementShortName">read15[15:0]</obj_property>
+      <obj_property name="ObjectShortName">read15[15:0]</obj_property>
+   </wvobject>
+</wave_config>
